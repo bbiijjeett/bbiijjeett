@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bijeet2001
+- 👋 Hi, I’m @bbiijjeett
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on project based on AI, ML
