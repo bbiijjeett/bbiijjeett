@@ -14,7 +14,7 @@
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
-![!bbiijjeett GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiijjeett)](https://github.com/bbiijjeett/github-readme-stats)
+![!bbiijjeett GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiijjeett)
 
 ## Connect with me:
 
