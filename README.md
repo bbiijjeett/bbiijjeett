@@ -15,9 +15,7 @@
 <br/>
 
 ![!bbiijjeett GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
 <br>
-
 ## Connect with me:
 <p align="left">
 <a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
