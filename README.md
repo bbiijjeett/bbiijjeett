@@ -20,14 +20,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
+
 <br/>
 
+### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bbiijjeett&theme=react-dark)
 
-![!bbiijjeett GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 <br>
+
 ## Connect with me:
 <p align="left">
 <a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
@@ -44,12 +46,7 @@
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiijjeett&count_private=true&theme=radical)
-
 <br>
---->
-
-
-<!---
 bijeet2001/bijeet2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
