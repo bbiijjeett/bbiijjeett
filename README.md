@@ -18,7 +18,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiijjeett&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiijjeett&count_private=true&theme=radical)
 
 <br>
 
