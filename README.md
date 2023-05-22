@@ -27,7 +27,10 @@
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bbiijjeett&theme=react-dark)
-
+<a href="https://github.com/bbiijjeett/github-stats">
+<img src="https://github.com/bbiijjeett/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/bbiijjeett/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 <br>
 
 ## Connect with me:
