@@ -22,6 +22,10 @@
 </div>
 <br/>
 
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bbiijjeett&theme=react-dark)
+
 ![!bbiijjeett GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 <br>
 ## Connect with me:
