@@ -24,7 +24,7 @@
 <br/>
 
 ### 🔥 My Stats 
-&nbsp;&nbsp;&nbsp;![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bbiijjeett&theme=react-dark)
 
 <br>
