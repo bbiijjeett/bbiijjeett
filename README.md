@@ -6,7 +6,7 @@
 - 📫 How to reach me -> Mail me at bijeetnathbtech@gmail.com
 
 ## 🚀 Languages and Tools:
-![JAVA](![image](https://github.com/bbiijjeett/bbiijjeett/assets/60234181/458bf175-b978-41a5-8840-210dac43dbb2))
+![JAVA](https://icons8.com/icon/13679/java)
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
