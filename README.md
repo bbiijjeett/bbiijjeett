@@ -6,8 +6,20 @@
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![C](https://img.icons8.com/color/30/c-programming.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href = "https://twitter.com/codeXdesign404"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+</p>
 
 
 <!---
