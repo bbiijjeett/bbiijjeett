@@ -6,14 +6,6 @@
 - 📫 How to reach me -> Mail me at bijeetnathbtech@gmail.com
 
 ## 🚀 Languages and Tools:
-![JAVA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
-![Github](https://img.icons8.com/color-glass/30/github.png)
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-<br/>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,6 +34,14 @@
 </p>
 
 <!---
+![JAVA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Github](https://img.icons8.com/color-glass/30/github.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiijjeett&count_private=true&theme=radical)
 
 <br>
