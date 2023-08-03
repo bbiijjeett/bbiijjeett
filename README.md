@@ -28,10 +28,10 @@
 <a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a href = "https://twitter.com/codeXdesign404"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p>
-
+<!---
 ## Visitor Info
 [![Bijeet profile views](https://u8views.com/api/v1/github/profiles/60234181/views/day-week-month-total-count.svg)](https://u8views.com/github/bbiijjeett)
-
+--->
 <!---
 ![JAVA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
