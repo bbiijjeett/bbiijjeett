@@ -23,12 +23,6 @@
 
 <br/>
 
-### 🔥 My Stats 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub Streak](https://github-readme-stats.vercel.app/api?username=bbiijjeett&count_private=true&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;![GitHub Streak](https://streak-stats.demolab.com/?user=bbiijjeett&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=bbiijjeett&theme=react-dark)
-
-<br>
-
 ## Connect with me:
 <p align="left">
 <a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
