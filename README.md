@@ -1,6 +1,6 @@
 <a href="#"><img src="https://github.com/bbiijjeett/bbiijjeett/blob/main/header.png" width="100%" /></a>
 - 👋 Hi, I’m @bbiijjeett
-- 👀 I’m interested in Web
+- 👀 I’m interested in Webdev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on project based on Frontend Development
 - 📫 How to reach me -> Mail me at bijeetnathbtech@gmail.com
