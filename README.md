@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @bbiijjeett
 - 👀 I’m interested in Webdev
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on project based on Frontend Development
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me -> Mail me at bijeetnathbtech@gmail.com
 
 ## 🚀 Languages and Tools:
