@@ -23,7 +23,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<!-- <a href = "linkedin.com/in/bbiijjeett/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a> -->
 <a href = "https://twitter.com/codeXdesign404"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p>
 <!---
